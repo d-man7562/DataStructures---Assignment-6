@@ -1,0 +1,31 @@
+ID,Severity,Start_Time,End_Time,Street,City,County,State,Temperature(F),Humidity(%),Visibility(mi),Weather_Condition,Crossing,Sunrise_Sunset
+A-512230,1,2022-09-08 05:49:30,2022-09-08 06:34:53,Army Trail Rd,Bartlett,DuPage,IL,58,90,10,Fair,FALSE,Night
+A-512231,1,2022-09-08 02:02:05,2022-09-08 04:31:32,Pearblossom Hwy,Littlerock,Los Angeles,CA,86,28,10,Fair,FALSE,Night
+A-512232,1,2022-09-08 05:14:12,2022-09-08 07:38:17,N 2nd St,Richmond,Richmond City,VA,68,96,10,Mostly Cloudy,TRUE,Night
+A-512233,1,2022-09-08 06:22:57,2022-09-08 06:52:42,Atlantic Blvd NE,Alliance,Stark,OH,62,86,7,Mostly Cloudy,FALSE,Night
+A-512234,2,2022-09-08 06:36:20,2022-09-08 07:05:58,I-77 N,Independence,Cuyahoga,OH,63,87,7,Partly Cloudy,FALSE,Night
+A-512236,2,2022-09-08 06:52:22,2022-09-08 07:21:58,I-71,Orient,Pickaway,OH,53,99,7,Fair,FALSE,Night
+A-512237,2,2022-09-08 06:52:22,2022-09-08 07:32:43,2B,Columbus,Franklin,OH,58,97,10,Fair,FALSE,Night
+A-512245,2,2022-09-08 06:45:25,2022-09-08 07:33:10,N South Fwy S,Bellmawr,Camden,NJ,66,84,10,Fair,FALSE,Day
+A-512247,1,2022-09-08 06:44:08,2022-09-08 07:13:25,Whitestone Expy,Flushing,Queens,NY,66,73,10,Partly Cloudy,TRUE,Day
+A-512248,1,2022-09-08 06:32:03,2022-09-08 07:01:39,I-480 E,North Ridgeville,Lorain,OH,58,93,10,Fair,FALSE,Night
+A-512249,3,2022-09-08 06:08:42,2022-09-08 06:57:22,I-90,Cleveland,Cuyahoga,OH,57,93,10,Fair,FALSE,Night
+A-512250,1,2022-09-08 06:02:57,2022-09-08 07:37:26,Garden State Pkwy,Iselin,Middlesex,NJ,66,78,10,Partly Cloudy,FALSE,Night
+A-512252,3,2022-09-08 06:35:30,2022-09-08 07:04:39,I-95,Boca Raton,Palm Beach,FL,78,84,10,Fair,FALSE,Night
+A-512253,2,2022-09-08 06:49:20,2022-09-08 07:47:46,J L Redman Pkwy,Plant City,Hillsborough,FL,73,100,10,Fair,TRUE,Night
+A-512254,1,2022-09-08 06:17:04,2022-09-08 07:34:55,Quality Dr,Charlotte,Mecklenburg,NC,70,81,10,Cloudy,TRUE,Night
+A-512255,1,2022-09-08 06:14:56,2022-09-08 07:29:20,Olde English Dr,Charlotte,Mecklenburg,NC,69,84,10,Mostly Cloudy,FALSE,Night
+A-512256,1,2022-09-08 06:29:31,2022-09-08 07:28:20,Brookshire Blvd,Charlotte,Mecklenburg,NC,69,84,10,Mostly Cloudy,TRUE,Night
+A-512257,1,2022-09-08 02:02:58,2022-09-08 02:32:20,US-101,Thousand Oaks,Ventura,CA,68,87,9,Fair,FALSE,Night
+A-512258,1,2022-09-08 06:18:45,2022-09-08 07:34:33,Lee Blvd,Lehigh Acres,Lee,FL,76,94,10,Fair,TRUE,Night
+A-512259,1,2022-09-08 06:15:44,2022-09-08 07:14:31,Glenwood Ave,Fort Myers,Lee,FL,76,94,10,Fair,FALSE,Night
+A-512261,3,2022-09-08 04:37:21,2022-09-08 06:25:36,I-80 E,New Lenox,Will,IL,61,94,10,Partly Cloudy,FALSE,Night
+A-512262,3,2022-09-08 05:28:42,2022-09-08 06:30:30,I-55 S,Bolingbrook,Will,IL,59,100,10,Fair,FALSE,Night
+A-512263,1,2022-09-08 04:48:21,2022-09-08 06:22:04,Hobson Rd,Woodridge,DuPage,IL,61,94,10,Cloudy,TRUE,Night
+A-512264,1,2022-09-08 04:14:17,2022-09-08 04:43:52,US-183-TOLL,Austin,Travis,TX,71,96,10,Fair,FALSE,Night
+A-512265,1,2022-09-08 05:23:55,2022-09-08 06:39:39,FM 969,Austin,Travis,TX,69,100,8,Fair,FALSE,Night
+A-512266,1,2022-09-08 04:43:17,2022-09-08 05:12:46,E Parmer Ln,Austin,Travis,TX,72,97,9,Fair,FALSE,Night
+A-512273,2,2022-09-08 06:27:10,2022-09-08 07:27:26,E Highway 25,Belleview,Marion,FL,73,96,10,Fair,TRUE,Night
+A-512274,1,2022-09-08 06:23:55,2022-09-08 07:08:23,Benson Rd,Garner,Wake,NC,71,93,10,Cloudy,FALSE,Night
+A-512275,4,2022-09-08 00:42:58,2022-09-08 01:27:22,I-95 N,Emporia,Emporia,VA,69,94,10,Cloudy,FALSE,Night
+A-512277,3,2022-09-07 21:54:19,2022-09-07 22:38:20,I-5,Sacramento,Sacramento,CA,83,28,10,Fair,FALSE,Night
