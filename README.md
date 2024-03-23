@@ -10,7 +10,7 @@ in PowerShell:
  - Compile the programs
 
  - input "java program6 [state] [date]"
-[state] should be in USA's state ticker format, i.e., ME, CA, etc.
+[state] should be in USA's state ticker format, i.e., ME, CA, etc.,
 [date] should be in yyyy-mm-dd format and be between 2021 and 2022
 
 Have fun!
